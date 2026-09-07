@@ -1,5 +1,5 @@
 
-  # LogiTech – Logistics & Warehousing Analytics
+<h1 align="center">LogiTech – Logistics & Warehousing Analytics</h1>
   
 <p align="center">
   <strong>Analyze Operational Data to Improve Logistics & Warehousing Efficiency</strong>
